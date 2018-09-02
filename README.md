@@ -1,2 +1,2 @@
-# javascript-examples
-Simple examples to learn Javascript
+# Simple examples to learn Javascript
+Promises
